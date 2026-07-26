@@ -52,3 +52,6 @@ Machine Learning project for crop recommendation.
 - Email: *(Add your email here)*
 
 Thanks for visiting my profile! 😊
+## 📊 GitHub Stats
+
+![Preethi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preeti4125&show_icons=true&theme=tokyonight)
