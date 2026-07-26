@@ -55,3 +55,6 @@ Thanks for visiting my profile! 😊
 ## 📊 GitHub Stats
 
 ![Preethi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preeti4125&show_icons=true&theme=tokyonight)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=preeti4125&theme=tokyonight)
