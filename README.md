@@ -86,15 +86,6 @@ A collection of Java applications demonstrating object-oriented programming, JDB
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=preeti4125&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 📈 Contribution Graph
 
